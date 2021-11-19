@@ -1,4 +1,4 @@
-# 11785-final-project: Transfer learning for pedestrian detection in thermal images
+# Transfer learning for pedestrian detection in thermal images
 
 Introduction
 --
