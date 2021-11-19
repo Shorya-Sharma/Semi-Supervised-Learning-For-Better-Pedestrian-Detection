@@ -3,7 +3,7 @@ Transfer learning for predestrain detection in thermometer image based on PyTorc
 
 ## Installation
 ##### Clone and install requirements
-    $ git clone https://github.com/RanZhang-CR/PyTorch-YOLOv3.git
+    $ git clone https://github.com/Shorya-Sharma/Semi-Supervised-Learning-For-Better-Pedestrian-Detection/tree/main/self-training%20for%20YOLO
     $ cd PyTorch-YOLOv3/
     $ sudo pip3 install -r requirements.txt
 
