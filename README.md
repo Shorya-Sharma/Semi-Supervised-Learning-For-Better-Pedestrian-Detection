@@ -1,19 +1,19 @@
-# 11785-project-transfer-learning
+# -transfer-learning
 
-This is the repo for the 11785 Fall 2020 final project: Semi-Supervised Learning For Better Pedestrian Detection
+This is the repo for project: Semi-Supervised Learning For Better Pedestrian Detection
 
 
 # Organization of the repo
 
 We use git submodule to organize our work. The folders include:
 
-11785-project: self-training for faster R-CNN (by Wanwen)
+self-training for faster R-CNN 
 
-11785-project-jianchang: active learning for faster R-CNN (by Jianchang)
+active learning for faster R-CNN 
 
-11785-project-active-learning-for-YOLO: active learning for YOLO and active learning loss (by Seo Young)
+active-learning-for-YOLO: active learning for YOLO and active learning loss
 
-11785-project-ranzhang-yolo: self-training for YOLO (by Ran)
+self-training for YOLO 
 
 # Dataset
 Download the FLIR thermal dataset: https://www.flir.com/oem/adas/adas-dataset-form/
