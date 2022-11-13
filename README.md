@@ -1,7 +1,5 @@
 # Semi-Supervised Learning For Better Pedestrian
 
-This repository contains the code and results for the project titled **Semi-Supervised Learning For Better Pedestrian** that I accomplished during my research internship at IIT Hyderabad under the guidance of Dr. Krishna Mohan
-
 
 # Organization of the repo
 
